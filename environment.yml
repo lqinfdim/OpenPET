@@ -177,9 +177,4 @@ dependencies:
       - widgetsnbextension==4.0.9
       - xxhash==3.4.1
       - yarl==1.9.4
-variables:
-  HF_HOME: /data/liqi/.cache/huggingface
-  PIP_CACHE_DIR: /data/liqi/.cache/pip
-  PIP_CONFIG_FILE: /home/liqi/.pip/pip.conf
-  TORCH_HOME: /data/liqi/.cache/hub
-prefix: /data/liqi/.spack/packages/gcc-11.4.0/anaconda3-2023.09-0/envs/home
+
